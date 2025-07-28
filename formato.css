@@ -1,8 +1,33 @@
 body {
-background-color: cornsilk;
+background-color: rgb(222, 222, 222);
+font-family: Arial, sans-serif
 }
 
 h1 {
-    color: cornflowerblue;
+    color: rgb(8, 10, 29);
     text-align: center;
 }
+
+Div {
+    color: rgb(10, 10, 135);
+    text-align: center;
+    font-size: 30px;
+}
+
+.navbar {
+      background-color: #72a3f1;
+      overflow: hidden;
+      display: flex;
+      justify-content: space-between;
+      padding: 10px 20px;
+    }
+
+.navbar a {
+      color: white;
+      text-align: center;
+      font-size: 25px;
+      padding: 10px 15px;
+      display: block;
+    }
+
+
