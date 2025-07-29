@@ -31,3 +31,12 @@ Div {
     }
 
 
+table, tr, td { 
+    border-style: double;
+    height: 50px;
+
+}
+
+p {
+    line-height: 2;
+}
