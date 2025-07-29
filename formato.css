@@ -31,6 +31,7 @@ Div {
     }
 
 
+HEAD
 table, tr, td { 
     border-style: double;
     height: 50px;
@@ -39,4 +40,4 @@ table, tr, td {
 
 p {
     line-height: 2;
-}
+  }
