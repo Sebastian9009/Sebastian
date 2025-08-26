@@ -38,6 +38,23 @@ table, tr, td {
 
 }
 
+.educacion, .curso {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: column; /* Coloca los elementos uno debajo del otro */
+    align-items: flex-start; /* Alinea los elementos al inicio */
+}
+
+.educacion img {
+    max-width: 150px; /* Tamaño máximo para las imágenes */
+    height: auto;
+    margin-bottom: 15px;
+    border-radius: 4px;
+}
+
 p {
     line-height: 2;
   }
